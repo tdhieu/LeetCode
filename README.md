@@ -1,15 +1,11 @@
 ---
 LeetCode
-Authors: 
-  - Hieu Tran 
-  - Duy Nguyen
+Authors: Hieu Tran, Duy Nguyen
 ---
 
 
 
 # 11/21/2015
-
-   ToDo list:
 
    	Problem 1:
       		https://leetcode.com/problems/two-sum/
